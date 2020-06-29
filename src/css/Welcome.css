@@ -1,0 +1,13 @@
+.welcome{
+  height: calc(100vh - 78px);
+  background: linear-gradient(rgba(249, 228, 148, 0.5), rgba(249, 228, 148, 0.5)),
+  url("/img/headerBcg.jpeg") center/cover fixed no-repeat;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+.title-up{
+  margin-top: -130px;
+}

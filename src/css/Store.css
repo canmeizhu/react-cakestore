@@ -1,0 +1,33 @@
+#store{
+  text-align: center;
+  background-color: rgb(238, 238, 238);
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.search{
+  margin: 20px 10px;
+  display: flex;
+  justify-content: center;
+}
+.search-icon{
+  background: #ef7998;
+  color: black;
+  font-size: 17px;
+  padding: 3px 8px;
+  border-radius: 3px 0 0 3px;
+  border: 1px solid gray;
+}
+#search-text{
+  height: 30px;
+  /* width:400px ; */
+  width: 30%;
+  border-radius: 0 3px 3px 0;
+  border: 1px solid gray;
+  border-left-width: 0;
+  padding-left: 10px;
+}
+.items-container{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}

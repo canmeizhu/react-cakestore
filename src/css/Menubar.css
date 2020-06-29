@@ -1,0 +1,59 @@
+/* ---------- menuBar ---------- */
+.flexBox{
+  display: flex;
+}
+.menuBar {
+  width: 100%;
+  padding: 10px 20px;
+  justify-content: space-between;
+  box-sizing: border-box;
+  overflow: visible;
+}
+.menuContainer {
+  margin: auto 10px;
+}
+.menuText {
+  display: inline-block;
+  margin: 0 10px;
+  text-decoration: none;
+  color: #ef7998;
+  font-size: 25px;
+  transition: all 0.2s ease-in-out;
+  cursor: pointer;
+}
+.menuText:hover {
+  color: black;
+}
+.menuCart{
+  margin: auto 10px;
+  font-size: 20px;
+}
+.menuCart-img{
+  margin-right: 10px;
+}
+.menuCart p{
+  display: inline-block;
+  margin-right: 30px;
+}
+.menuCart-num{
+  cursor: pointer;
+  transition: all 0.1s ease-in-out;
+}
+.menuCart-num:hover{
+  color: #ef7998;
+}
+.itemNumber{
+  font-size: 17px;
+}
+
+@media screen and (max-width: 700px){
+  .tel{
+    display: none;
+    color: red;
+  }
+}
+@media screen and (max-width: 560px){
+  .menuText{
+    font-size: 20px;
+  }
+}

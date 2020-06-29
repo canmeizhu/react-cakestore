@@ -1,0 +1,31 @@
+.cake-info{
+  display: flex;
+  align-items: center;
+  width: 100%;
+  height: 40px;
+  margin-bottom: 10px;
+}
+.cake-img{
+  flex: 1;
+  display: flex;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.cake-img img{
+  width: 85%;
+}
+.cake-name{
+  flex: 2;
+  font-size: 16px;
+  margin-top: 3px;
+}
+.cake-price{
+  flex: 1;
+  font-size: 16px;
+  margin-right: 10px;
+  margin-top: 3px;
+}
+.cake-number-container{
+  flex:2;
+  margin-top: 3px;
+}

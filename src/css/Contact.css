@@ -1,0 +1,16 @@
+#contact{
+  display: flex;
+  justify-content: space-between;
+  padding: 25px;
+  font-size: 18px;
+  background: linear-gradient(rgba(249, 228, 148, 0.5), rgba(249, 228, 148, 0.5)),
+  url("/img/footerBcg.jpeg") center/cover no-repeat;
+}
+.pink, .contact-icon:hover{
+  color: #ef7998;
+}
+.contact-icon{
+  margin-right: 20px;
+  font-size: 22px;
+  cursor: pointer;
+}

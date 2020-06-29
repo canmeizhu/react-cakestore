@@ -1,0 +1,98 @@
+[
+  {
+    "type": "classic",
+    "name": "Royal",
+    "url": "Royal.jpg",
+    "price": "22.46",
+    "description": "Tropilia by Valrhona 70 % dark chocolate mousse on traditional homemade praline feuilletine with milk chocolate, Joconde sponge cake, milk chocolate glaze.",
+    "ingredients": "35% M.F. cream (cream [milk], carrageenan), Dark chocolate (cocoa mass, sugar, cocoa butter, soy lecithin, natural vanilla flavour), Cane sugar, Milk chocolate (sugar, dry whole milk, cocoa butter, unsweetened chocolate, soy lecithin, natural vanilla flavour), Water, Almonds"
+  },
+  {
+    "type": "classic",
+    "name": "Chocolate trio",
+    "url": "Chocolate-trio.jpg",
+    "price": "32.46",
+    "description": "Chocolate-almond flourless biscuit, creamy milk chocolate, Caribbean (Valrhona) dark chocolate ganache, white chocolate mousse, topped with dark chocolate icing and decorated with pieces of dark chocolate.",
+    "ingredients": "35% M.F. cream (cream, carrageenan), Liquid egg white, Cane sugar, Dark chocolate (cocoa mass, sugar, cocoa butter, dextrose, soy lecithin, vanilla flavour), Frozen yolk mix (egg yolk, sugar)"
+  },
+  {
+    "type": "classic",
+    "name": "Jardiniere",
+    "url": "Jardiniere.jpg",
+    "price": "18.71",
+    "description": "Almond-butter sweet pastry, almond cream, fresh vanilla pastry cream and fresh fruits.",
+    "ingredients": "Milk, Untreated unbleached wheat flour, Butter, Liquid whole egg, Cane sugar, Icing sugar, Almonds, Water, Corn starch, Liquid egg yolk"
+  },
+  {
+    "type": "classic",
+    "name": "Black forest",
+    "url": "Black-forest.jpg",
+    "price": "26.21",
+    "description": "Chocolate genoise lightly soaked in kirsch syrup, chocolate Chantilly cream, sour cherry jelly and kirsch light cream.",
+    "ingredients": "35% M.F. cream (cream, carrageenan), Cane sugar, Dark chocolate (sugar, cocoa mass, cocoa butter, natural vanilla flavour, soy lecithin), Sour cherry purée (sour cherry, sugar), Untreated unbleached wheat flour"
+  },
+  {
+    "type": "Seasonal",
+    "name": "Haskap and vanilla",
+    "url": "Haskap-and-vanilla.jpg",
+    "price": "22.13",
+    "description": "Almond and haskap sponge cake, garnished with crushed almonds, topped with a Viennese sponge cake soaked in vanilla syrup",
+    "ingredients": "35% M.F. cream (cream, carrageenan), Cane sugar, Haskap berries, Raspberry purée (raspberries, sugar), Water, Liquid whole egg, White chocolate (sugar, cocoa butter, milk powder, soy lecithin"
+  },
+  {
+    "type": "Seasonal",
+    "name": "Lemon and berry",
+    "url": "Lemon-and-berry.jpg",
+    "price": "29.95",
+    "description": "Lemon Viennese sponge cake topped with berry compote, lemon cream and honey-sweetened lemon Bavarian cream, and finally covered with a berry glaze.",
+    "ingredients": "35% M.F. cream (cream, carrageenan), Cane sugar, Berry purée (raspberry, strawberry, blackberry, blueberry, sugar), Water, Blueberries, Milk, Frozen yolk mix (egg yolk, sugar), Lemon juice"
+  },
+  {
+    "type": "Pies",
+    "name": "Apple pie",
+    "url": "Apple-pie.jpg",
+    "price": "8.95",
+    "description": "Home made garnish made with Golden apple wedges, mixed with apple juice and cane sugar and a hint of cinnamon.",
+    "ingredients": "Apples (apples, ascorbic acid, salt, citric acid), Untreated unbleached wheat flour, Apple juice from concentrate (water, concentrated apple juice, vitamin C)"
+  },
+  {
+    "type": "Pies",
+    "name": "Strawberry pie",
+    "url": "Strawberry-pie.jpg",
+    "price": "10.95",
+    "description": "Home made garnish made with pieces of strawberries, rhubarb mixed with cane sugar.",
+    "ingredients": "Pastry (untreated unbleached wheat flour, lard, water, sea salt, cane sugar), Strawberries, Cane sugar, Rhubarb, Water, Liquid whole egg, Modified corn starch. May contain milk"
+  },
+  {
+    "type": "Individual",
+    "name": "Assorted macaroons",
+    "url": "Assorted-macaroons.jpg",
+    "price": "11.10",
+    "description": "A tantalizing assortment of delicious macaroons. Perfect to offer as a gift.",
+    "ingredients": "Sugar, Almonds, Icing sugar, Liquid egg white, White chocolate (sugar, cocoa butter, milk powder, soy lecithin, natural vanilla flavour), Water, 35% M.F. cream"
+  },
+  {
+    "type": "Individual",
+    "name": "Cheesecake",
+    "url": "Cheesecake.jpg",
+    "price": "5.10",
+    "description": "Graham cracker crust, cream cheese and sour cream filling, covered with raspberry glaze and fresh fruit.",
+    "ingredients": "Cream cheese (milk ingredients, salt, bacterial culture, carob bean gum), Cane sugar, Sour cream (pasteurized cream, milk ingredients, bacterial culture, microbial enzyme), Liquid whole egg"
+  },
+  {
+    "type": "Individual",
+    "name": "Almond cake",
+    "url": "Almond-cake.jpg",
+    "price": "2.95",
+    "description": "Made from a homemade gluten-free flour mix, almond powder, sliced almonds, eggs, cane sugar, vanilla and sea salt.",
+    "ingredients": "Liquid whole egg, Cane sugar, Canola oil, Almonds, Organic brown rice flour, Tapioca starch, Invert sugar, Natural vanilla extract, Sea salt, Guar gum, Baking powder."
+  },
+  {
+    "type": "Seasonal",
+    "name": "Madeleines",
+    "url": "Madeleines.jpg",
+    "price": "2.12",
+    "description": "Made from unbleached untreated Quebec flour, premium butter, eggs and honey, this delicate shell-shaped delight is a real treat!",
+    "ingredients": "Untreated unbleached wheat flour, Liquid whole egg, Cane sugar, Butter (milk), Honey, Baking powder. May contain soy, tree nuts, peanuts, sesame, mustard, sulphites, seafood (crustaceans, shellfish, fish)."
+  }
+]
